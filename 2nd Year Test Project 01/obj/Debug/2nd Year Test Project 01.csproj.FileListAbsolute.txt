@@ -1,0 +1,9 @@
+S:\Projects\2nd Year Test Project 01\2nd Year Test Project 01\bin\Debug\2nd Year Test Project 01.exe.config
+S:\Projects\2nd Year Test Project 01\2nd Year Test Project 01\obj\Debug\_2nd_Year_Test_Project_01.Form1.resources
+S:\Projects\2nd Year Test Project 01\2nd Year Test Project 01\obj\Debug\_2nd_Year_Test_Project_01.Properties.Resources.resources
+S:\Projects\2nd Year Test Project 01\2nd Year Test Project 01\obj\Debug\2nd Year Test Project 01.csproj.GenerateResource.Cache
+S:\Projects\2nd Year Test Project 01\2nd Year Test Project 01\bin\Debug\2nd Year Test Project 01.exe
+S:\Projects\2nd Year Test Project 01\2nd Year Test Project 01\bin\Debug\2nd Year Test Project 01.pdb
+S:\Projects\2nd Year Test Project 01\2nd Year Test Project 01\obj\Debug\2nd Year Test Project 01.exe
+S:\Projects\2nd Year Test Project 01\2nd Year Test Project 01\obj\Debug\2nd Year Test Project 01.pdb
+S:\Projects\2nd Year Test Project 01\2nd Year Test Project 01\obj\Debug\2nd Year Test Project 01.csprojResolveAssemblyReference.cache
